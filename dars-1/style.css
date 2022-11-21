@@ -4,7 +4,13 @@ body{
 
 h1{
     color: #fff;
+    font-wight: bold;
+    font-size: 24;
+    background-color: #da22ff;
 }
 p{
     color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #dd2476;
 }
