@@ -1,0 +1,19 @@
+/* P tegi uchun selector */
+p{
+    color:red;
+}
+
+/* Class uchun selector */
+.class1{
+    color:green;
+}
+
+/* ID uchun selector */
+#id1{
+    color:lightblue;
+}
+
+/* Disabled uchun selector */
+[disabled]{
+    color: purple;
+}
