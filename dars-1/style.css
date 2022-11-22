@@ -3,8 +3,22 @@ body{
 }
 
 h1{
+    font-family: Arial, Helvetica, sans-serif;
     color: #fff;
+    font-wight: bold;
+    font-size: 24;
+    background-color: #da22ff;
+    border-bottom: 6px solid red;
 }
 p{
+    font-family: Arial, Helvetica, sans-serif;
     color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #dd2476;
+    text-indent: 40px;
+    line-height: 1.5;
+    border-bottom: 6px solid red;
+    
+    
 }
