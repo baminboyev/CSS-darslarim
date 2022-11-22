@@ -1,5 +1,6 @@
 /* P tegi uchun selector */
 p{
+    font-family: Arial;
     color:red;
     font-size:16px;
     font-weight:bold;
@@ -7,6 +8,7 @@ p{
 
 /* Class uchun selector */
 .class1{
+    font-family: Arial;
     color:green;
     font-size:16px;
     font-weight:bold;
@@ -14,6 +16,7 @@ p{
 
 /* ID uchun selector */
 #id1{
+    font-family: Arial;
     color:lightblue;
     font-size:16px;
     font-weight:bold;
@@ -21,6 +24,8 @@ p{
 
 /* Disabled uchun selector */
 [disabled]{
+    font-family: Arial;
+    font-family: Arial;
     color: purple;
     font-size: 16px;
     font-weight: bold;
