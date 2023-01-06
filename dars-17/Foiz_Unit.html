@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .fixed-box{
+            position:fixed;
+            width:50%;
+            height:200px;
+            background-color: crimson;
+        }
+        .positioned-box{
+            position: relative;
+            width: 800px;
+            padding:50px;
+            background-color: aqua;
+        }
+
+        .absolute-box{
+            position: absolute;
+            width: 50%;
+            background-color: lightgreen;
+        }
+
+        .block-box{
+            position: relative;
+            width: 800px;
+            padding:50px;
+            background-color: aqua;
+        }
+
+        .relative-box{
+            position: relative;
+            width: 50%;
+            background-color: lightgreen;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="fixed-box">Fixed box</div> <br> <br>
+    <div class="positioned-box">
+        <div class="absolute-box">Absolute-box</div> <br> <br>
+    </div>
+    <div class="block-box">
+        <div class="relative-box">Absolute-box</div>
+    </div>
+</body>
+</html>
